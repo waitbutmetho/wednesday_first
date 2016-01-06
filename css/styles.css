@@ -7,3 +7,19 @@ p.best {
   font-style: oblique;
   color: brown;
 }
+
+h2.intro {
+  font-size: 120%;
+  font-style: bold;
+
+}
+
+p.intro {
+ font-size: 90%;
+ color: grey;
+}
+
+img.intro {
+width: 600px;
+height: 300px;
+}
