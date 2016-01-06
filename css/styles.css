@@ -23,3 +23,11 @@ img.intro {
 width: 600px;
 height: 300px;
 }
+
+.span1 {
+  color: red;
+}
+
+.intro {
+  color: blue;
+}
