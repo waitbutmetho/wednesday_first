@@ -52,3 +52,28 @@ height: 300px;
   font-size: 120%;
   color: purple;
 }
+
+.important {
+  color: red;
+  font-style: underline;
+}
+
+.unimportant {
+  color: purple;
+  font-style: italic;
+}
+
+.priorwork{
+  color: blue;
+  font-size: 120%;
+}
+
+.education {
+  color: green;
+  font-family: serif;
+}
+
+.talents{
+  color: yellow;
+  font-family: sans-serif;
+}
