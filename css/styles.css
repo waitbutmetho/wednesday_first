@@ -31,3 +31,24 @@ height: 300px;
 .intro {
   color: blue;
 }
+
+.bp1 {
+  color: red;
+}
+
+.bp2 {
+  color: blue;
+}
+
+.bp3 {
+  color: teal;
+}
+
+.bp4 {
+  color: orange;
+}
+
+.aboutme{
+  font-size: 120%;
+  color: purple;
+}
